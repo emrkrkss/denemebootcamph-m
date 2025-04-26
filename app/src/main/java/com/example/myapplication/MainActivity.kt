@@ -15,7 +15,7 @@ import com.example.myapplication.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
+        super.onCreatjjjje(savedInstanceState)
         enableEdgeToEdge()
         setContent {
             MyApplicationTheme {
